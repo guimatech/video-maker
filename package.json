@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guimaraes-lucas/video-maker/issues"
   },
-  "homepage": "https://github.com/guimaraes-lucas/video-maker#readme"
+  "homepage": "https://github.com/guimaraes-lucas/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
